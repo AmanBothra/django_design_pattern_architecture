@@ -1,0 +1,2 @@
+# django_design_pattern_architecture
+Maintainable Django Design Pattern Architecture
